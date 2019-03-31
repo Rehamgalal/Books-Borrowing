@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "299976376968",
+    "firebase_url": "https://books-borrowing.firebaseio.com",
+    "project_id": "books-borrowing",
+    "storage_bucket": "books-borrowing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299976376968:android:ad4764cb5b1c6066",
+        "android_client_info": {
+          "package_name": "com.example.reham.booksborrowing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299976376968-stnra19eacut92qban0q42v2iciu9vi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reham.booksborrowing",
+            "certificate_hash": "933a9362151afff278b32aeef5332b4fe15002bf"
+          }
+        },
+        {
+          "client_id": "299976376968-ncftij8k2plj0ovaas56kij3s373j0s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbviEEt5pTXGnu4by7buaBT4pUrOBXn4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299976376968-ncftij8k2plj0ovaas56kij3s373j0s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

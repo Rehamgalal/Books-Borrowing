@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Books Borrowing</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Books Borrowing</string>
+    <string name="home">Home</string>
+    <string name="recentreadings">Recently Reading</string>
+    <string name="borrowed">Borrowing</string>
+    <string name="lended">Lending</string>
+    <string name="settings">setting</string>
+    <string name="readers">Readers you know</string>
+    <string name="logout">Logout</string>
+    <string-array name="readings">
+        <item>@string/home</item>
+        <item>@string/recentreadings</item>
+        <item>@string/borrowed</item>
+        <item>@string/lended</item>
+        <item>@string/readers</item>
+        <item>@string/settings</item>
+        <item>@string/logout</item>
+    </string-array>
+</resources>
